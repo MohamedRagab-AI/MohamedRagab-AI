@@ -4,7 +4,7 @@
 I'm a **Computer and Systems Engineering student** passionate about using data to solve real-world problems. With hands-on experience in **data and business analytics**, I am currently diving deeper into the fields of **Data Science** and **Artificial Intelligence** to expand my technical expertise and drive impactful insights.
 
 ### GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRagab-DS-AI&show_icons=true&theme=react&border_color=61dafb&hide_border=true")
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRagab-AI&show_icons=true&theme=react&border_color=61dafb&hide_border=true")
 
 ### Let's Connect!
 - **LinkedIn**: [Mohamed Ragab](https://www.linkedin.com/in/mohamed-ragab-radwan)
